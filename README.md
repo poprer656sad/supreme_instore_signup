@@ -9,4 +9,6 @@ however you intend to retrieve captcha tokens
 2, fill in your custom info. lines 150-170. this is just your billing info and what not.
 it is commented too so it should be self explanatory.
 
+please also have pip installed.
+
 for locations, currently there is 'Manhattan', 'Brooklyn', 'Los Angeles', and 'San Francisco'
