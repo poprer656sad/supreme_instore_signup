@@ -33,6 +33,7 @@ class supremesignup():
         while self.status == 'queued':
             time.sleep(1)
             self.get_status()
+            print(self.status)
         print(self.status)
 
 
