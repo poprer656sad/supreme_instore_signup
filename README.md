@@ -2,7 +2,7 @@ This is a python request based module for supreme in store sign ups for this sea
 You still need to do 2 things:
 
 1, have a captcha harvester. There are many open source ones lying around. Supreme uses v2 captcha.
-you will have to change line 18 to your own captcha harvester's get ip, or the fucntion to
+you will have to change line 18 to your own captcha harvester's get ip, or the function to
 however you intend to retrieve captcha tokens
 
 
