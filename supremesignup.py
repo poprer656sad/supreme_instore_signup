@@ -171,4 +171,4 @@ card_info = {
     'verification_value': 'xxx', #cvv
 }
 
-_ = supremesignup(customer_info)
+_ = supremesignup(customer_info, billing_info, card_info)
