@@ -33,7 +33,7 @@ class supremesignup():
         while self.status == 'queued':
             time.sleep(1)
             self.get_status()
-        print(self.state)
+        print(self.status)
 
 
     def registry_page(self):
